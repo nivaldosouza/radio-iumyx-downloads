@@ -1,8 +1,32 @@
 {
-  "versao": "1.1.0",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.1.0/RadioIumyxStudio-1.1.0-instalador.exe",
-  "sha256": "COLE-AQUI-O-SHA256-DO-INSTALADOR",
-  "tamanhoBytes": 0,
+  "versao": "1.0.6",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.6/RadioIumyxStudio-1.0.6-instalador.exe",
+  "sha256": "sha256": "BFFB51A3BFAE35CCEA39FD5C45DEB70FA25220E70507DA13514B638A5FFA0431",
+  "tamanhoBytes": 82373622,
   "obrigatoria": false,
-  "notas": "• Descreva aqui, em linguagem de locutor, o que mudou nesta versão.\n• Uma linha por item."
+  "notas":
+  "cartucheira rapida reparada"
+  "Modificações no layout"
+  "Troca do icone do programa"
+"A chave de transmissão do YouTube/Facebook não aparece mais no relatório de " +
+"problemas: agora sai escondida, como já acontecia com a senha do servidor de rádio. " +
+"Quem tem essa chave transmite no seu canal como se fosse você, e o relatório é " +
+"justamente o arquivo que você manda para o suporte.",
+"O relatório de problemas parou de encher de avisos repetidos sobre a imagem do " +
+"preview da câmera.",
+"Agora você cadastra o NOME DA SUA RÁDIO em Configurações, e a inteligência " +
+"artificial passa a falar esse nome nas vinhetas, na hora certa e no boletim.",
+"O Google Gemini entrou na lista de serviços de inteligência artificial, ao lado " +
+"do GPT e do Claude.",
+"Botão novo no alto da playlist: \"Tocar a playlist do início\". Antes, com uma " +
+"vinheta na primeira posição, ela tocava sozinha e a programação não começava.",
+"Você pode pedir um respiro de alguns segundos entre uma música e outra, em " +
+"Configurações → Programação.",
+"A hora certa falada pode entrar a cada tantas MÚSICAS, e não só de tantos em " +
+"tantos minutos — assim ela nunca cai no meio do refrão.",
+"A cartucheira do botão Disparar agora tem os arquivos DELA, separados da " +
+"cartucheira de sempre: deixe ali o que é de emergência e ao vivo, sem procurar " +
+"no meio das vinhetas do dia a dia.",
+"O programa ganhou ícone próprio, e as telas ficaram no mesmo tom escuro de ponta " +
+"a ponta — barra de título, abas, campos e barras de rolagem."
 }
