@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.6",
+  "versao": "1.0.7",
   "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.6/RadioIumyxStudio-1.0.6-instalador.exe",
-  "sha256": "BFFB51A3BFAE35CCEA39FD5C45DEB70FA25220E70507DA13514B638A5FFA0431",
-  "tamanhoBytes": 82373622,
+  "sha256": "E38B09AE6BF4A81C37E09F999B590CB5BFFE529FCA0B61EBD1C8A2CB777CC68D",
+  "tamanhoBytes": 82395665,
   "obrigatoria": false,
-  "notas": "• Correção na cartucheira de disparo rápido.\n• O programa ganhou ícone próprio, e as telas ficaram no mesmo tom escuro de ponta a ponta: barra de título, abas, campos e barras de rolagem.\n• A chave de transmissão do YouTube e do Facebook não aparece mais no relatório de problemas.\n• Você cadastra o NOME DA SUA RÁDIO em Configurações, e a inteligência artificial passa a falar esse nome nas vinhetas, na hora certa e no boletim.\n• O Google Gemini entrou na lista de serviços de inteligência artificial, ao lado do GPT e do Claude.\n• Botão novo no alto da playlist para tocar a lista desde o início.\n• Você pode pedir um respiro de alguns segundos entre uma música e outra, em Configurações → Programação.\n• A hora certa falada pode entrar a cada tantas músicas, e não só de tantos em tantos minutos.\n• A cartucheira do botão Disparar agora tem os arquivos dela, separados da cartucheira de sempre."
+  "notas": "A tela de ativação ganhou dois botões que abrem a conversa já com o código escrito na mensagem."
 }
