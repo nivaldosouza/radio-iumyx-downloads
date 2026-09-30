@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.8",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.8/RadioIumyxStudio-1.0.8-instalador.exe",
-  "sha256": "9A353FC2F589370774962054F8E89FC6E0D9D32128FB48FACD1AF5779E079BB5",
-  "tamanhoBytes": 82389831,
+  "versao": "1.0.9",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.9/RadioIumyxStudio-1.0.9-instalador.exe",
+  "sha256": "D39ED4A702D702F27EDC3FDC838A7997FA48E97D3B6B6A2AB3E2ACEC4A33D761",
+  "tamanhoBytes": 83050046,
   "obrigatoria": false,
-  "notas": "alteração na caixa de texto."
+  "notas": "Tutorial-manual completo, 19 capítulos, tema escuro igual ao do programa, índice fixo na lateral, funciona sem internet e imprime bem."
 }
