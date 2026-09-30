@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.7",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.7/RadioIumyxStudio-1.0.7-instalador.exe",
-  "sha256": "E38B09AE6BF4A81C37E09F999B590CB5BFFE529FCA0B61EBD1C8A2CB777CC68D",
-  "tamanhoBytes": 82395665,
+  "versao": "1.0.8",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.8/RadioIumyxStudio-1.0.8-instalador.exe",
+  "sha256": "9A353FC2F589370774962054F8E89FC6E0D9D32128FB48FACD1AF5779E079BB5",
+  "tamanhoBytes": 82389831,
   "obrigatoria": false,
-  "notas": "A tela de ativação ganhou dois botões que abrem a conversa já com o código escrito na mensagem."
+  "notas": "alteração na caixa de texto."
 }
