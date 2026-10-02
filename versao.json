@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.9",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.9/RadioIumyxStudio-1.0.9-instalador.exe",
-  "sha256": "D39ED4A702D702F27EDC3FDC838A7997FA48E97D3B6B6A2AB3E2ACEC4A33D761",
-  "tamanhoBytes": 83050046,
+  "versao": "1.0.10",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.10/RadioIumyxStudio-1.0.10-instalador.exe",
+  "sha256": "1AC4E118CCD01F6957BC05149740DFCE59F488C2C498BD591D52BCF1994AEE4A",
+  "tamanhoBytes": 83060417,
   "obrigatoria": false,
-  "notas": "Tutorial-manual completo, 19 capítulos, tema escuro igual ao do programa, índice fixo na lateral, funciona sem internet e imprime bem."
+  "notas": "Ajuste no relogio do sistema, Ajuste no na ar entre as musicas, Adicionado DatasEspeciais na tela do programa, Correção de bug na reprodução de áudio,Correção de bug na reprodução de vídeo, Correção de bug na tela de ativação"
 }
