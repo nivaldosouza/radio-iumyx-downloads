@@ -1,8 +1,8 @@
 {
-  "versao": "2.2.0",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.2.0/IumyxStudio-2.2.0-instalador.exe",
-  "sha256": "21beab81aaa20096f28b5a2ae56e37bc65765209f0276a1a72e8c4e8ef3ba6f4",
-  "tamanhoBytes": 82146989,
+  "versao": "2.4.0",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.4.0/IumyxStudio-2.4.0-instalador.exe",
+  "sha256": "b07792119ac403be4b2ab12d2774f86c0609434e023823f05351f140198f4e86",
+  "tamanhoBytes": 82161695,
   "obrigatoria": false,
-  "notas": "• Primeira versão do Iumyx Studio: biblioteca, criação com IA, editor multitrilha, ativação e atualização automática."
+  "notas": "•Vinhetas de entrada e saída, Hora & Temp"
 }
