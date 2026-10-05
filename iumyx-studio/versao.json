@@ -1,8 +1,8 @@
 {
-  "versao": "2.4.0",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.4.0/IumyxStudio-2.4.0-instalador.exe",
-  "sha256": "b07792119ac403be4b2ab12d2774f86c0609434e023823f05351f140198f4e86",
-  "tamanhoBytes": 82161695,
+  "versao": "2.5.0",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.5.0/IumyxStudio-2.5.0-instalador.exe",
+  "sha256": "5468ee36fc1a2632de43695d0f45d791f4aceafa42a1ddccccc3337d300b15e9",
+  "tamanhoBytes": 82167247,
   "obrigatoria": false,
-  "notas": "•Vinhetas de entrada e saída, Hora & Temp"
+  "notas": "•adicionado gravador de voz"
 }
