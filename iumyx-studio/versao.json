@@ -1,7 +1,7 @@
 {
   "versao": "2.5.1",
   "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.5.1/IumyxStudio-2.5.1-instalador.exe",
-  "sha256": "sha256: 7710cc5edf6caf99c8fd8e24266c56bbb30c902f9fe0a71c9d2279ed285ab381",
+  "sha256": "7710cc5edf6caf99c8fd8e24266c56bbb30c902f9fe0a71c9d2279ed285ab381",
   "tamanhoBytes": 82167413,
   "obrigatoria": false,
   "notas": "•Corrigido o aviso de Clipboard bloqueado"
