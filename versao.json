@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.10",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.10/RadioIumyxStudio-1.0.10-instalador.exe",
-  "sha256": "1AC4E118CCD01F6957BC05149740DFCE59F488C2C498BD591D52BCF1994AEE4A",
-  "tamanhoBytes": 83060417,
+  "versao": "1.0.12",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.12/RadioIumyxStudio-1.0.12-instalador.exe",
+  "sha256": "efa54bb639dc5787a798bf1392d6026d13a80188b4617162ed378fe8fb364211",
+  "tamanhoBytes": 83061139,
   "obrigatoria": false,
-  "notas": "Ajuste no relogio do sistema, Ajuste no na ar entre as musicas, Adicionado DatasEspeciais na tela do programa, Correção de bug na reprodução de áudio,Correção de bug na reprodução de vídeo, Correção de bug na tela de ativação"
+  "notas": "• O período de avaliação agora é de 48 horas.\n• O selo ao lado do relógio mostra as horas restantes."
 }
