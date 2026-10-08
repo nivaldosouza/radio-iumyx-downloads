@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.3",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.5.3/IumyxStudio-2.5.3-instalador.exe",
-  "sha256": "c1cf31524c97b7c42e2205e9139fba5415b49bb138605cb48aad5832f51300d6",
-  "tamanhoBytes": 82167426,
+  "versao": "2.6.0",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v2.6.0/IumyxStudio-2.6.0-instalador.exe",
+  "sha256": "284612100dc3a2a408c79bd4eed6bdca6b07bf93332ce58e5c375113e3af7b93",
+  "tamanhoBytes": 82170529,
   "obrigatoria": false,
-  "notas": "• O período de teste agora é de 48 horas.\n• O selo mostra as horas restantes."
+  "notas": "• Nova aba Trilha: gera música instrumental por IA a partir do texto da vinheta.\n• A trilha entra na timeline com ducking automático."
 }
