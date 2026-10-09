@@ -1,8 +1,12 @@
 {
-  "versao": "1.0.12",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.12/RadioIumyxStudio-1.0.12-instalador.exe",
-  "sha256": "efa54bb639dc5787a798bf1392d6026d13a80188b4617162ed378fe8fb364211",
-  "tamanhoBytes": 83061139,
+  "versao": "1.0.13",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.13/RadioIumyxStudio-1.0.13-instalador.exe",
+  "sha256": "658195874E123C51D04C9BFAC02FCC54D5D336C603729532980E2BE28290E8C4",
+  "tamanhoBytes": 83082799,
   "obrigatoria": false,
-  "notas": "• O período de avaliação agora é de 48 horas.\n• O selo ao lado do relógio mostra as horas restantes."
+  "notas": "O período de avaliação passou de 15 dias para 48 horas; o selo ao lado do relógio mostra as horas restantes",
+"Agora você escolhe a CIDADE do clima: ⚙ Configurações → 🌦 Clima e Notícias. Digite o nome, o programa acha, você confirma. O letreiro e a Hora Certa passam a falar da sua região",
+"Cadastro de fontes de notícias: ponha o jornal da sua cidade ao lado dos nacionais. O programa intercala as manchetes, então a notícia local sempre entra no ar",
+"Botão para testar cada fonte de notícia antes de deixar no ar, em vez de descobrir o endereço errado quando o letreiro fica vazio",
+"Corrigido o erro ao gerar áudio de textos longos, como o horóscopo dos doze signos: o programa desistia aos 15 segundos e perdia o trabalho"
 }
