@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.13",
-  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.13/RadioIumyxStudio-1.0.13-instalador.exe",
-  "sha256": "658195874E123C51D04C9BFAC02FCC54D5D336C603729532980E2BE28290E8C4",
-  "tamanhoBytes": 83082799,
+  "versao": "1.0.14",
+  "url": "https://github.com/nivaldosouza/radio-iumyx-downloads/releases/download/v1.0.14/RadioIumyxStudio-1.0.14-instalador.exe",
+  "sha256": "E57B4309361F7135B1E9F848D87D464AD88596C1964D97608BA634261EEE15B1",
+  "tamanhoBytes":  83095933,
   "obrigatoria": false,
-  "notas": "• Agora você escolhe a CIDADE do clima Configurações • Clima e Notícias Digite o nome o programa acha você confirma • O letreiro e a Hora Certa passam a falar da sua região."
+  "notas": "• Versao 1.0.14 - versão corrigida do videostreamer."
 }
